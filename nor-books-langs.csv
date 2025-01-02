@@ -1,0 +1,81 @@
+LANGUAGE-ID	LANGUAGE-LABEL	NOR-LANG-ID	CODE
+Q1860	English		en
+Q150	French		fr
+Q1321	Spanish		es
+Q188	German		de
+Q7976	American English	Q1860	en-us
+Q7979	British English	Q1860	en-gb
+Q5146	Portuguese		pt
+Q652	Italian		it
+Q7411	Dutch		nl
+Q7737	Russian		ru
+Q7026	Catalan		ca
+Q9043	Norwegian		no
+Q9035	Danish		da
+Q5287	Japanese		jp
+Q750553	Brazilian Portuguese	Q5146	pt-br
+Q9129	Greek		el
+Q9027	Swedish		sv
+Q35497	Ancient Greek	Q9129	grc
+Q809	Polish		pl
+Q9056	Czech		cs
+Q13955	Arabic		ar
+Q397	Latin		la
+Q14549	Scots		sco
+Q9314	Scottish Gaelic		gd
+Q9067	Hungarian		hu
+Q9301	Serbo-Croatian		sh
+Q7850	Chinese		zh
+Q9299	Serbian		sr
+Q9307	Galician		gl
+Q14196	Afrikaans		af
+Q36395	Middle English	Q1860	enm
+Q8752	Basque		eu
+Q1472196	Early Modern English	Q1860	emen
+Q8748	Albanian		sq
+Q256	Turkish		tr
+Q182695	Early Middle Japanese	Q5287	ojp
+Q3110592	written Chinese language	Q7850	zhw
+Q783605	written vernacular Chinese	Q7850	zhwv
+Q1088025	Old Spanish	Q1321	osp
+Q5364419	Early Modern Spanish	Q1321	esem
+Q7918	Bulgarian		bg
+Q7913	Romanian		ro
+Q294	Icelandic		is
+Q36510	Modern Greek	Q9129	el
+Q1412	Finnish		fi
+Q33587	Gikuyu		ki
+Q25167	Bokmål	Q9043	nb
+Q9072	Estonian		et
+Q9176	Korean		ko
+Q9288	Hebrew		he
+Q253854	Classical Latin	Q397	lat-cla
+Q1473289	Middle French	Q150	frm
+Q1147606	Beijing dialect	Q7850	bjjg
+Q6144345	Southern American English	Q1860	en-us-so
+Q9610	Bangla		bn
+Q34340	Sesotho		st
+Q9309	Welsh		cy
+Q6654	Croatian		hr
+Q7838	Swahili		sw
+Q9168	Persian		fa
+Q9063	Slovene		sl
+Q9142	Irish		ga
+Q654101	Newspeak	Q1860	newspeak
+Q8641	Yiddish		yi
+Q56649449	Latin American Spanish	Q1321	es-419
+Q616620	Mexican Spanish	Q1321	Es-mx
+Q8798	Ukrainian		uk
+Q5885	Tamil		ta
+Q922399	European Portuguese	Q5146	pt-eu
+Q1740805	Quichua		qui
+Q21550769	Medieval Italian	Q652	it-me
+Q35518	Akkadian		akk
+Q990062	Homeric Greek	Q9129	grc-hom
+Q11059	Sanskrit		sa
+Q1990745	Tuscan	Q652	it-tus
+Q35222	Old French	Q150	ofr
+Q1340322	Jutlandic	Q9035	jut
+Q37015	Riksmål	Q9043	no-rik
+Q9199	Vietnamese		vi
+Q8785	Armenian		hy
